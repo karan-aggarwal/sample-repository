@@ -1,2 +1,2 @@
 # sample-repository
-A Sample repository for my CI App
+A Sample repository for my CI App.
